@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @scjo42
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Joe
 - 🌱 I’m currently learning python, git
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email or travel to Berlin, Germany
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
 
 <!---
 scjo42/scjo42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
